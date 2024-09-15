@@ -1,36 +1,44 @@
-# Hi there! 👋 I'm Er. Alok Tripathi
-<br>
-<img alt="Coder GIF" height=250 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
-<br>
+<h1 align="center">Hi 👋, I'm Er. Alok Tripathi</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-I'm a passionate developer, entrepreneur, and creator of **Alexander Balvis Productions** and **Casting Crew**, where I help aspiring actors develop their skills and gain exposure. My projects range from **web development** to **chatbots**, with a focus on building solutions that bring joy and efficiency to users.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thisisalokdon&label=Profile%20views&color=0e75b6&style=flat" alt="thisisalokdon" /> </p>
 
-## 🚀 Skills & Tools
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thisisalokdon" alt="thisisalokdon" /></a> </p>
 
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+<p align="left"> <a href="https://twitter.com/alexanderbalvis" target="blank"><img src="https://img.shields.io/twitter/follow/alexanderbalvis?logo=twitter&style=for-the-badge" alt="alexanderbalvis" /></a> </p>
 
-- 💻 **Web Development:** Turning ideas into beautiful and functional websites.
-- 🤖 **Chatbots:** Creator of interactive and engaging bots for Discord.
-- 🎬 **Actor Training:** Running successful businesses to support aspiring actors.
-  
-## 🌟 Featured Projects
+- 🔭 I’m currently working on [Movie Review Website](https://typingspeedtest2.blogspot.com)
 
-| Project Name  | Description | Live Demo | Repo |
-| ------------- | ------------- |:-------------:| -----:|
-| **Thor Bot**  | A fun Discord bot that communicates in Hinglish and makes users laugh.  | [Demo Link](https://your-demo-link.com) | [Repo](https://github.com/yourusername/thor-bot) |
-| **Rani Bot**  | A flirty chatbot designed to interact in Hindi.  | [Demo Link](https://your-demo-link.com) | [Repo](https://github.com/yourusername/rani-bot) |
-| **Portfolio Website**  | A sleek personal portfolio showcasing my work and skills.  | [Demo Link](https://your-portfolio-link.com) | [Repo](https://github.com/yourusername/portfolio) |
+- 👯 I’m looking to collaborate on [My website](https://alexanderbalvis.in)
 
-## 📫 How to Reach Me
+- 📝 I regularly write articles on [https://alokjikablog.blogspot.com](https://alokjikablog.blogspot.com)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/yourhandle)
+- 📫 How to reach me **thisisalokdon@gmail.com**
 
-Feel free to check out my repositories, collaborate with me, or just say hello! 😊
+- ⚡ Fun fact **i hire people's for my company**
 
-![Footer Image](https://your-image-url.com/footer.png)
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/alexanderbalvis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alexanderbalvis" height="30" width="40" /></a>
+<a href="https://fb.com/alexanderbalviss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alexanderbalviss" height="30" width="40" /></a>
+<a href="https://instagram.com/alexanderbalvis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alexanderbalvis" height="30" width="40" /></a>
+<a href="https://dribbble.com/alexanderbalvis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="alexanderbalvis" height="30" width="40" /></a>
+<a href="https://www.behance.net/alexanderbalvis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="alexanderbalvis" height="30" width="40" /></a>
+<a href="https://medium.com/@alexanderbalvis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@alexanderbalvis" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/alexander balvis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="alexander balvis" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/alexanderbalvis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="alexanderbalvis" height="30" width="40" /></a>
+<a href="https://discord.gg/TEJbzU2gt9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="TEJbzU2gt9" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thisisalokdon&show_icons=true&locale=en&layout=compact" alt="thisisalokdon" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thisisalokdon&show_icons=true&locale=en" alt="thisisalokdon" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thisisalokdon&" alt="thisisalokdon" /></p>
